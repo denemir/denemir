@@ -9,9 +9,15 @@ I love to work on complex full-stack applications that challenge my critical thi
 ![CSS](https://img.shields.io/badge/code-CSS3-1572B6?style=for-the-badge&logo=css3)
 
 
-- Tools & Frameworks I use:&nbsp;&nbsp;&nbsp;![Unity](https://img.shields.io/badge/engine-Unity-000000?style=for-the-badge&logo=unity)
+- Tools & Frameworks I use:&nbsp;&nbsp;&nbsp;
+![Unity](https://img.shields.io/badge/engine-Unity-000000?style=for-the-badge&logo=unity)
 ![Dotnet](https://img.shields.io/badge/engine-ASP.NET-000000?style=for-the-badge&logo=dotnet)
 ![Git](https://img.shields.io/badge/engine-Git-000000?style=for-the-badge&logo=git)
+
+- Currently learning:&nbsp;&nbsp;&nbsp;
+![React](https://img.shields.io/badge/code-React-000000?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/code-TypeScript-000000?style=for-the-badge&logo=typescript)
+
 </p>
 <!--
 **denemir/denemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
