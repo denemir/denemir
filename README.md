@@ -1,6 +1,6 @@
 # <p align="center">Hey! My name is Daniel Nemirovskiy! 👋</p>
 <p align="center">I'm currently a Software Engineer at Lone Star Analysis, and formerly a Software Developer at Ayoka Systems.<br>
-I love to work on complex full-stack applications that challenge my critical thinking,<br> with a passion for game design & development.<br> <img src="https://github.com/user-attachments/assets/c5ff5949-c4d2-4c79-a4a7-36fe761d689e" alt="alt-text" width="50">
+I love to work on complex full-stack applications that challenge my critical thinking, with a passion for game design & development.<br> <img src="https://github.com/user-attachments/assets/c5ff5949-c4d2-4c79-a4a7-36fe761d689e" alt="alt-text" width="50">
 
 - My languages:&nbsp;&nbsp;&nbsp;![C#](https://img.shields.io/badge/code-C%23-239120?style=for-the-badge&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
