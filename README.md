@@ -21,7 +21,8 @@ I'm also currently attending the University of Texas at Dallas, graduating Dec. 
 ![Docker](https://img.shields.io/badge/-Docker-3178C6?style=for-the-badge&logo=docker&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Robot](https://img.shields.io/badge/-Robot-3178C6?style=for-the-badge&logo=robot-framework&logoColor=black)
+![Robot](https://img.shields.io/badge/-Robot-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)
 </p>
 
 <p align="center">
