@@ -1,7 +1,6 @@
 # <p align="center">Hey! My name is Daniel Nemirovskiy! 👋</p>
 <p align="center">I'm currently a Software Engineer at Lone Star Analysis, and formerly a Software Developer intern at Ayoka Systems.<br>
-I love to work on complex full-stack applications that challenge my critical thinking, with a passion for game design & development.<br>
-I'm also currently attending the University of Texas at Dallas, graduating Dec. 2025. <br>
+I love to work on complex full-stack applications that challenge my critical thinking, with a passion for game design & development.<br> 
 <img src="https://github.com/user-attachments/assets/190560a9-a0ad-4917-a593-0fa6761872fd" alt="alt-text" title="why is he dancing cats can't do that stop that man" width="50">
   
 - My languages:&nbsp;&nbsp;&nbsp;
