@@ -20,6 +20,7 @@ I love to work on complex full-stack applications that challenge my critical thi
 
 - Currently learning:&nbsp;&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-3178C6?style=for-the-badge&logo=docker&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Robot](https://img.shields.io/badge/-Robot-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)
 </p>
